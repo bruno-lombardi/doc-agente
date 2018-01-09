@@ -8,7 +8,7 @@
 <p>Este é o documento que serve de base para todos os outros documentos, já que é a base do projeto, onde deve ser descrito de maneira narrativa a funcionalidade do sistema. O objetivo é descrever as ações que o usuário pode realizar, os resultados esperados de suas ações e suas restrições.</p>
 <p>Para facilitar a leitura, vamos classificar nossos atores (usuários, administradores, visitantes) como sendo uma <strong>entidade</strong>. No entanto, entidades não se restringem a isso. Para mais detalhes veja a página sobre <a href="entidade/">entidades</a>. Cada <strong>entidade</strong> pode realizar determinadas <em>ações</em>. As <em>ações</em> possuem restrições e consequências. Entendido essa parte, dividimos esse documento de acordo com os atores, a começar pelos usuários.</p>
 <h2 id="usuários">Usuários</h2>
-<h3 id="visitante">Visitante</h3>
+<h3 id="a-namevisitanteavisitante"><a></a>Visitante</h3>
 <p>Ao acessar o site pela primeira vez, o visitante abre a página <a href="#">Início</a>.</p>
 <h4 id="ações">Ações</h4>
 <ul>
@@ -26,7 +26,7 @@
 <li>Conversar com outros atletas</li>
 </ul>
 <p>Ao retornar ao site, o visitante é sugerido a criar uma conta.</p>
-<h3 id="atleta">Atleta</h3>
+<h3 id="a-nameatletaaatleta"><a></a>Atleta</h3>
 <p>Ao fazer login, o atleta é redirecionado à página inicial. Ele é uma extensão do que o visitante pode fazer, o que significa que ele pode fazer tudo que o visitante faz, sem as restrições que o visitante possui.</p>
 <h4 id="ações-1">Ações</h4>
 <ul>
@@ -40,9 +40,9 @@
 <li>Mudar seu tipo de conta para olheiro</li>
 <li>Ver o email ou número de telefone de outros atletas</li>
 </ul>
-<h3 id="olheiro">Olheiro</h3>
+<h3 id="a-nameolheiroaolheiro"><a></a>Olheiro</h3>
 <p>…</p>
-<h3 id="administrador">Administrador</h3>
+<h3 id="a-nameadminaadministrador"><a></a>Administrador</h3>
 <p>Ao fazer login, é redirecionado para seu painel administrativo. Tem acesso a funções privilegiadas para gerenciar o sistema.</p>
 <h4 id="ações-2">Ações</h4>
 <ul>
