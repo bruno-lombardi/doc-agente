@@ -6,7 +6,7 @@
 <h1 id="estudo-de-caso">ESTUDO DE CASO</h1>
 <h2 id="introdução">Introdução</h2>
 <p>Este é o documento que serve de base para todos os outros documentos, já que é a base do projeto, onde deve ser descrito de maneira narrativa a funcionalidade do sistema. O objetivo é descrever as ações que o usuário pode realizar, os resultados esperados de suas ações e suas restrições.</p>
-<p>Para facilitar a leitura, vamos classificar nossos atores (usuários, administradores, visitantes) como sendo uma <strong>entidade</strong>. No entanto, entidades não se restringem a isso. Para mais detalhes veja a página sobre <a href="#">entidades</a>. Cada <strong>entidade</strong> pode realizar determinadas <em>ações</em>. As <em>ações</em> possuem restrições e consequências. Entendido essa parte, dividimos esse documento de acordo com os atores, a começar pelos usuários.</p>
+<p>Para facilitar a leitura, vamos classificar nossos atores (usuários, administradores, visitantes) como sendo uma <strong>entidade</strong>. No entanto, entidades não se restringem a isso. Para mais detalhes veja a página sobre <a href="entidade/">entidades</a>. Cada <strong>entidade</strong> pode realizar determinadas <em>ações</em>. As <em>ações</em> possuem restrições e consequências. Entendido essa parte, dividimos esse documento de acordo com os atores, a começar pelos usuários.</p>
 <h2 id="usuários">Usuários</h2>
 <h3 id="visitante">Visitante</h3>
 <p>Ao acessar o site pela primeira vez, o visitante abre a página <a href="#">Início</a>.</p>
