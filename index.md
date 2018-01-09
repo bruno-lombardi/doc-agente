@@ -9,7 +9,7 @@
 <p>À seguir, você vai encontrar o índice de todos os tópicos da documentação.</p>
 <h2 id="índice">Índice</h2>
 <ul>
-<li><a href="docs/estudo_de_caso.md">Estudo de caso Agente</a></li>
+<li><a href="docs/estudo_de_caso.md">Estudo de caso</a></li>
 <li>Entidades</li>
 <li>Diagramas de caso de uso</li>
 <li>Páginas
