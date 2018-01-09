@@ -16,7 +16,6 @@
 <li>Diagramas de caso de uso</li>
 <li>Páginas
 <ul>
-<li>Introdução</li>
 <li>Início</li>
 <li>Cadastro / Login</li>
 <li>Painel administrativo
