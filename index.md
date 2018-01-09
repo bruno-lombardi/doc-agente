@@ -24,10 +24,13 @@
 <li>Administrador</li>
 </ul>
 </li>
-<li>Perfil</li>
-<li>Pesquisa</li>
+<li>Perfil
+<ul>
 <li>Atleta</li>
 <li>Olheiro</li>
+</ul>
+</li>
+<li>Pesquisa</li>
 </ul>
 </li>
 <li>Implementação
