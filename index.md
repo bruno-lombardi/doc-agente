@@ -12,7 +12,7 @@
 <p>Clique nos links para navegar pela documentação. Se não houver link, ainda não há página sobre o tópico, mas será adicionada em breve.</p>
 <ul>
 <li><a href="docs/estudo_de_caso">Estudo de caso</a></li>
-<li>Entidades</li>
+<li><a href="docs/entidade">Entidades</a></li>
 <li>Diagramas de caso de uso</li>
 <li>Páginas
 <ul>
