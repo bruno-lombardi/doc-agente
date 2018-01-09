@@ -41,7 +41,7 @@
 <li>Ver o email ou número de telefone de outros atletas</li>
 </ul>
 <h3 id="olheiro">Olheiro</h3>
-<p>…</p>
+<p>Ao fazer login, é redirecionado para página inicial. O olheiro é um caso especial de usuário. Ele pode observar não apenas o perfil de atletas, mas também as estatísticas das várias modalidades de esporte existentes no site, como saber quantos atletas existem em determinada modalidade.</p>
 <h3 id="administrador">Administrador</h3>
 <p>Ao fazer login, é redirecionado para seu painel administrativo. Tem acesso a funções privilegiadas para gerenciar o sistema.</p>
 <h4 id="ações-2">Ações</h4>
@@ -54,4 +54,11 @@
 <ul>
 <li>Criar, atualizar e remover administradores</li>
 </ul>
+<h2 id="cadastro-e-autenticação">Cadastro e autenticação</h2>
+<p>O cadastro não é obrigatório para os visitantes acessaram o conteúdo do site. Ao realizar o cadastro, o usuário preenche informações obrigatórias, como nome completo, data de nascimento, etc.</p>
+<p>O cadastro possui duas etapas, sendo que a segunda etapa distingue o usuário de atleta ou olheiro. Mais detalhes sobre as informações que cada um deve preencher são encontrados na página da entidade <a href="entidades/usuario">Usuário</a>.</p>
+<h2 id="linha-do-tempo">Linha do tempo</h2>
+<h2 id="perfil-dos-atletas">Perfil dos atletas</h2>
+<h2 id="perfil-dos-olheiros">Perfil dos olheiros</h2>
+<h2 id="publicações">Publicações</h2>
 
