@@ -58,7 +58,19 @@
 <p>O cadastro não é obrigatório para os visitantes acessaram o conteúdo do site. Ao realizar o cadastro, o usuário preenche informações obrigatórias, como nome completo, data de nascimento, etc.</p>
 <p>O cadastro possui duas etapas, sendo que a segunda etapa distingue o usuário de atleta ou olheiro. Mais detalhes sobre as informações que cada um deve preencher são encontrados na página da entidade <a href="entidades/usuario">Usuário</a>.</p>
 <h2 id="linha-do-tempo">Linha do tempo</h2>
+<p>A linha do tempo faz parte da página inicial do site. Lá podemos encontrar as últimas atividades ou publicações realizadas pelos atletas e olheiro. Apresentando as atividades mais recentes primeiro, a linha do tempo tem o objetivo de manter os atletas atualizados sobre a comunidade.</p>
+<p>A linha do tempo é composta de <a href="#">publicações</a>, e para cada atleta, ela é personalizada. Isso quer dizer que as publicações que aparecem para um usuário, não são as mesmas que aparecem para outro. A personalização é baseada nos interesses do usuário. Portanto, se o atleta tem interesse em futebol, ele vai ver publicações relacionadas a futebol. Os atletas podem alterar seus interesses a qualquer momento.</p>
+<p>A linha do tempo não será paginada, será dinâmica, e carregará as publicações enquanto o usuário navega pela página, similar ao que acontece no facebook.</p>
 <h2 id="perfil-dos-atletas">Perfil dos atletas</h2>
+<p>O perfil dos atletas irá mostrar seus dados para as pessoas. As fotos em destaque que eles escolheram, e seus vídeos. Além disso, as publicações feitas pelo atleta apareceram em sua página de perfil, que terá uma linha do tempo própria.</p>
 <h2 id="perfil-dos-olheiros">Perfil dos olheiros</h2>
+<p>O perfil dos olheiros não mostra muitos dados sobre eles. No entanto, tem uma linha do tempo também com as publicações feitas pelos olheiros.</p>
 <h2 id="publicações">Publicações</h2>
+<p>Publicações são formas de os usuários se promoverem, mostrarem suas conquistas em suas carreiras ou socializar.</p>
+<h2 id="painel-do-usuário">Painel do usuário</h2>
+<p>Ao acessar sua própria página de perfil, o usuário abre uma página personalizada onde pode alterar suas informações, criar novas publicações e ver como estão suas mensagens.</p>
+<h2 id="painel-do-administrador">Painel do administrador</h2>
+<p>O administrador possui um painel distinto, que ele pode usar para gerenciar vários aspectos do site.</p>
+<h2 id="pesquisa-de-usuários">Pesquisa de usuários</h2>
+<p>O site possui uma página de pesquisa personalizada. Nessa página, é possível pesquisar atletas por nome, idade, sexo, cidade, UF, modalidade de esporte, categoria, altura ou peso. A pesquisa de olheiros pode não incluir todas essas opções.</p>
 
