@@ -34,6 +34,7 @@
 <li>Criar uma carreira, onde adicionam prêmios, conquistas e realizações</li>
 <li>Adicionar 5 fotos de destaque no perfil</li>
 <li>Adicionar sua modalidade de esporte e categoria</li>
+<li>Podem denunciar publicações de outros usuários</li>
 </ul>
 <h4 id="restrições-1">Restrições</h4>
 <ul>
@@ -73,4 +74,6 @@
 <p>O administrador possui um painel distinto, que ele pode usar para gerenciar vários aspectos do site.</p>
 <h2 id="pesquisa-de-usuários">Pesquisa de usuários</h2>
 <p>O site possui uma página de pesquisa personalizada. Nessa página, é possível pesquisar atletas por nome, idade, sexo, cidade, UF, modalidade de esporte, categoria, altura ou peso. A pesquisa de olheiros pode não incluir todas essas opções.</p>
+<h2 id="mensagens">Mensagens</h2>
+<p>Os usuários podem usar um sistema de mensagens para conversar uns com os outros. Apenas usuários cadastrados podem fazer isso, e ao fazerem, suas conversas ficam salvas, para poderem acessar depois. A conversa não é restrita, a menos que o usuário configure seu perfil para não receber mensagens.</p>
 
