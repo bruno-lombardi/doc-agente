@@ -15,7 +15,7 @@
 <li><a href="docs/entidade">Entidades</a></li>
 <li>Páginas
 <ul>
-<li>Início</li>
+<li><a href="docs/paginas/inicio">Início</a></li>
 <li>Cadastro / Login</li>
 <li>Painel administrativo
 <ul>
