@@ -13,7 +13,6 @@
 <ul>
 <li><a href="docs/estudo_de_caso">Estudo de caso</a></li>
 <li><a href="docs/entidade">Entidades</a></li>
-<li>Diagramas de caso de uso</li>
 <li>Páginas
 <ul>
 <li>Início</li>
@@ -42,15 +41,7 @@
 </li>
 <li>Testes
 <ul>
-<li>Orientado a usuários</li>
 <li>Unitários</li>
-</ul>
-</li>
-<li>Estatísticas
-<ul>
-<li>Website</li>
-<li>Documentação</li>
-<li>Código fonte</li>
 </ul>
 </li>
 </ul>
